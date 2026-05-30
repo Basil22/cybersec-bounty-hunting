@@ -1,0 +1,4 @@
+# Bug Bounty Targets
+# Format: domain|program|platform|status|notes
+
+anthropic|Anthropic Bug Bounty|HackerOne|active|claude.ai, api.anthropic.com, console.anthropic.com
