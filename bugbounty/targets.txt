@@ -1,0 +1,2 @@
+# Add target domains here, one per line
+# Example: example.com
